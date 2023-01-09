@@ -1,0 +1,19 @@
+{
+  "name": "react-10-12",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "antd": "^5.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "description": ""
+}
