@@ -1,10 +1,10 @@
 //components
-import { Title } from "./components/Title";
+import { ButtonComponent } from "./components/ButtonComponent";
 
 export function App() {
   return (
     <>
-      <Title/>
+      <ButtonComponent />
     </>
   );
 }
